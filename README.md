@@ -4,15 +4,15 @@ This project is a single webpage demo that showcases the use of Bootstrap to cre
 Bootstrap is to create a responsive website with a navigation bar/menu, logo (both text and image options), body content, tables, and footer. The navigation bar is designed to collapse on smaller screens, providing a user-friendly experience on both desktop and mobile devices. The logo is easily customizable with both image and text options, making it easy to brand the site to your needs. The body content is organized and formatted using Bootstrap's grid system, ensuring a clean and modern look. Tables are utilized to display information in an organized and easily readable format. Finally, a footer is included, providing a clear end to the site and additional navigation options. Overall, Bootstrap proved to be an excellent tool for creating a professional and responsive website with a consistent design.
 
 ## Technologies Used
-HTML5
-CSS3
-Bootstrap 5
+- HTML5
+- CSS3
+- Bootstrap 5
 
 ## Features
-Responsive design for desktop and mobile devices
-Clean and modern layout
-Use of Bootstrap components and utilities for easy customization
-Use of mostly bootstrap animations for visual interes
+- Responsive design for desktop and mobile devices
+- Clean and modern layout
+- Use of Bootstrap components and utilities for easy customization
+- Use of mostly bootstrap animations for visual interes
 
 ## Screenshots
 
